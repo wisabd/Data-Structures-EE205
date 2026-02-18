@@ -1,7 +1,6 @@
 /*
  * Skeleton code for project 4 in EE205 2017 FALL KAIST
  * Created by Joonki Hong
- * Attempted and submitted by Manh Tuan Do (20150942)
  */
 
 #include "ADT_graph.h"
